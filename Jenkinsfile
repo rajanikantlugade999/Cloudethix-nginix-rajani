@@ -5,5 +5,3 @@
   platform = "docker_shared_lib"
 
   }
-
-            }
