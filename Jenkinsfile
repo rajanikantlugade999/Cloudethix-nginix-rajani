@@ -2,6 +2,8 @@
 
   DockerDeliveryPipeline {
 
-  //platform = "docker_shared_lib"
+  platform = "docker_shared_lib"
+
+  }
 
             }
